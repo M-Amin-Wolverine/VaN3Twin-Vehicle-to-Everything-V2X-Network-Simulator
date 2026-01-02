@@ -143,6 +143,56 @@ The VaN3Twin framework reflects his mentorship, providing a high-fidelity enviro
 We sincerely acknowledge Dr. Eslami’s invaluable support, constructive feedback, and academic leadership, which were instrumental in achieving **scientific excellence, reproducibility, and high-impact research outcomes**.
 
 ---
+📌 Citation & Scientific Usage Notice
 
+In the event that the utilization of this simulator contributes to, or directly results in, any form of scientific publication, technical report, thesis, or academic dissemination, we kindly and formally request that the following work be cited accordingly.
+
+🔖 Recommended Citation
+@article{M-Amin-Wolverine2026,
+  title   = {VaN3Twin: The Multi-Technology V2X Digital Twin with Ray-Tracing-in-the-Loop and Related Challenges},
+  author  = {M. Amin Khodadadi},
+  journal = {Undecided},
+  volume  = {--},
+  number  = {-},
+  pages   = {-----},
+  year    = {2026},
+  doi     = {-------------------},
+  url     = {Online}
+}
+
+
+This reference describes the theoretical foundations, system architecture, implementation details, and technical challenges associated with the proposed VaN3Twin multi-technology V2X digital twin framework, including the integration of ray-tracing-in-the-loop methodologies.
+
+📊 Dataset Description
+
+Comprehensive information regarding the dataset, including:
+
+Data acquisition methodology
+
+Simulation parameters
+
+Scenario definitions
+
+Validation procedures
+
+Limitations and known issues
+
+is thoroughly documented in the above-mentioned article. Readers and users are strongly encouraged to consult the paper for an in-depth technical understanding and correct scientific usage of the dataset.
+
+🙏 Acknowledgement
+
+This research was partially supported by multiple funding bodies and research initiatives. The authors gratefully acknowledge:
+
+The Internal Grant Agency of Islamic Azad University,
+Science and Research Branch (SRBIAU),
+under project number:
+srbi-4022-11-8191
+
+The EEDep Research Project,
+under grant number:
+FW01639100666
+
+Their financial and institutional support played a crucial role in enabling the development, experimentation, and validation of the proposed digital twin framework.
+---
 *Project conceived, developed, and maintained by Mohammad Amin Khodadadi*  
 *Last major update: January 2026*
